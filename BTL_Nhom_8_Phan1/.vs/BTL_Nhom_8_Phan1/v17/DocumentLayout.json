@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LuuDuLieuHocTap\\BaiTapLon_Nhom8_Phan1\\BTL_Nhom_8_Phan1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C843CC28-A063-4DEE-95BC-79658AB984D5}|BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1.csproj|d:\\luudulieuhoctap\\baitaplon_nhom8_phan1\\btl_nhom_8_phan1\\btl_nhom_8_phan1\\quick_sort_cdt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C843CC28-A063-4DEE-95BC-79658AB984D5}|BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1.csproj|solutionrelative:btl_nhom_8_phan1\\quick_sort_cdt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C843CC28-A063-4DEE-95BC-79658AB984D5}|BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1.csproj|d:\\luudulieuhoctap\\baitaplon_nhom8_phan1\\btl_nhom_8_phan1\\btl_nhom_8_phan1\\nhan2songuyenlon_cdt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C843CC28-A063-4DEE-95BC-79658AB984D5}|BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1.csproj|solutionrelative:btl_nhom_8_phan1\\nhan2songuyenlon_cdt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C843CC28-A063-4DEE-95BC-79658AB984D5}|BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1.csproj|d:\\luudulieuhoctap\\baitaplon_nhom8_phan1\\btl_nhom_8_phan1\\btl_nhom_8_phan1\\merge_sort_cdt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C843CC28-A063-4DEE-95BC-79658AB984D5}|BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1.csproj|solutionrelative:btl_nhom_8_phan1\\merge_sort_cdt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C843CC28-A063-4DEE-95BC-79658AB984D5}|BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1.csproj|d:\\luudulieuhoctap\\baitaplon_nhom8_phan1\\btl_nhom_8_phan1\\btl_nhom_8_phan1\\timkiemnhiphan_cdt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C843CC28-A063-4DEE-95BC-79658AB984D5}|BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1.csproj|solutionrelative:btl_nhom_8_phan1\\timkiemnhiphan_cdt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Quick_Sort_CDT.cs",
+              "DocumentMoniker": "D:\\LuuDuLieuHocTap\\BaiTapLon_Nhom8_Phan1\\BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1\\Quick_Sort_CDT.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom_8_Phan1\\Quick_Sort_CDT.cs",
+              "ToolTip": "D:\\LuuDuLieuHocTap\\BaiTapLon_Nhom8_Phan1\\BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1\\Quick_Sort_CDT.cs",
+              "RelativeToolTip": "BTL_Nhom_8_Phan1\\Quick_Sort_CDT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:36:38.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Nhan2SoNguyenLon_CDT.cs",
+              "DocumentMoniker": "D:\\LuuDuLieuHocTap\\BaiTapLon_Nhom8_Phan1\\BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1\\Nhan2SoNguyenLon_CDT.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom_8_Phan1\\Nhan2SoNguyenLon_CDT.cs",
+              "ToolTip": "D:\\LuuDuLieuHocTap\\BaiTapLon_Nhom8_Phan1\\BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1\\Nhan2SoNguyenLon_CDT.cs",
+              "RelativeToolTip": "BTL_Nhom_8_Phan1\\Nhan2SoNguyenLon_CDT.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswCsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:29:28.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Merge_Sort_CDT.cs",
+              "DocumentMoniker": "D:\\LuuDuLieuHocTap\\BaiTapLon_Nhom8_Phan1\\BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1\\Merge_Sort_CDT.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom_8_Phan1\\Merge_Sort_CDT.cs",
+              "ToolTip": "D:\\LuuDuLieuHocTap\\BaiTapLon_Nhom8_Phan1\\BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1\\Merge_Sort_CDT.cs",
+              "RelativeToolTip": "BTL_Nhom_8_Phan1\\Merge_Sort_CDT.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv1sAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:17:14.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimKiemNhiPhan_CDT.cs",
+              "DocumentMoniker": "D:\\LuuDuLieuHocTap\\BaiTapLon_Nhom8_Phan1\\BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1\\TimKiemNhiPhan_CDT.cs",
+              "RelativeDocumentMoniker": "BTL_Nhom_8_Phan1\\TimKiemNhiPhan_CDT.cs",
+              "ToolTip": "D:\\LuuDuLieuHocTap\\BaiTapLon_Nhom8_Phan1\\BTL_Nhom_8_Phan1\\BTL_Nhom_8_Phan1\\TimKiemNhiPhan_CDT.cs",
+              "RelativeToolTip": "BTL_Nhom_8_Phan1\\TimKiemNhiPhan_CDT.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvzUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T01:10:19.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

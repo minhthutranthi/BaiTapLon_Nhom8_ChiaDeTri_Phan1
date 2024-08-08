@@ -1,0 +1,14 @@
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\bin\Debug\net8.0\BTL_Nhom_8_Phan1.exe
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\bin\Debug\net8.0\BTL_Nhom_8_Phan1.deps.json
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\bin\Debug\net8.0\BTL_Nhom_8_Phan1.runtimeconfig.json
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\bin\Debug\net8.0\BTL_Nhom_8_Phan1.dll
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\bin\Debug\net8.0\BTL_Nhom_8_Phan1.pdb
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\obj\Debug\net8.0\BTL_Nhom_8_Phan1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\obj\Debug\net8.0\BTL_Nhom_8_Phan1.AssemblyInfoInputs.cache
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\obj\Debug\net8.0\BTL_Nhom_8_Phan1.AssemblyInfo.cs
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\obj\Debug\net8.0\BTL_Nhom_8_Phan1.csproj.CoreCompileInputs.cache
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\obj\Debug\net8.0\BTL_Nhom_8_Phan1.dll
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\obj\Debug\net8.0\refint\BTL_Nhom_8_Phan1.dll
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\obj\Debug\net8.0\BTL_Nhom_8_Phan1.pdb
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\obj\Debug\net8.0\BTL_Nhom_8_Phan1.genruntimeconfig.cache
+D:\LuuDuLieuHocTap\BaiTapLon_Nhom8_Phan1\BTL_Nhom_8_Phan1\BTL_Nhom_8_Phan1\obj\Debug\net8.0\ref\BTL_Nhom_8_Phan1.dll
